@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: developing a TypeScript-based web application using React and Node.js.
+
+👯 I’m looking to collaborate on: open source projects written in TypeScript or JavaScript, particularly those related to web development or serverless architectures.
+
+🤝 I’m looking for help with: optimizing the performance of my TypeScript code and improving my understanding of software design patterns.
 
 
 # 💻 Tech Stack:
