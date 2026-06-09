@@ -1,9 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on: developing a TypeScript-based web application using React and Node.js.
+I do stuff 
 
-👯 I’m looking to collaborate on: open source projects written in TypeScript or JavaScript, particularly those related to web development or serverless architectures.
-
-🤝 I’m looking for help with: optimizing the performance of my TypeScript code and improving my understanding of software design patterns.
 
 
 # 💻 Tech Stack:
